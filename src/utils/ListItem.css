@@ -1,0 +1,13 @@
+.todo-item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #2f2834;
+    color: white;
+    margin: 8px;
+    border-radius: 10px;
+}
+.todo-item svg{
+    width: 24px;
+}
